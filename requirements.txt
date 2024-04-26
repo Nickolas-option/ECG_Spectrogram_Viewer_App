@@ -1,0 +1,6 @@
+customtkinter==6.0.2
+matplotlib==3.5.3
+numpy==1.23.5
+Pillow==9.3.0
+scipy==1.9.3
+wfdb==3.4.1
