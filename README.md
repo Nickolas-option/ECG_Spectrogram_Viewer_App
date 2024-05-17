@@ -15,7 +15,7 @@
 
 - Скачайте репозиторий ECG_Spectrogram_Viewer_App   
 - Запустите программу main.exe (работает для систем Windows 10/11)
-- Чтобы установить зависимости, запустите команду pip install -r requirements.txt, а затем выполните python main.py (работает для остальных систем) 
+- Запустите команду pip install -r requirements.txt, а затем выполните python main.py (работает для остальных систем) 
 
 ## Использование   
 
